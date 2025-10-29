@@ -1,0 +1,99 @@
+Ered Hotel Presentation Slides
+
+Slide 1: Introduction
+Title: Welcome to Ered Hotel
+- Luxury hotel booking platform
+- PHP-based web application
+- MySQL database backend
+- User authentication system
+- Real-time booking management
+
+Slide 2: Core Features
+Title: Main Functionality
+- Hotel search and discovery
+- Room type selection
+- Date-based availability checking
+- Guest count management
+- Real-time pricing calculation
+- Booking form with user details
+- Payment processing integration
+
+Slide 3: User System
+Title: User Management
+- User registration (signup.php)
+- Secure login system (signin.php)
+- User profile management
+- Booking history tracking
+- Account settings
+- Session management
+- Secure logout system
+
+Slide 4: Booking Process
+Title: Booking System
+- Hotel selection interface
+- Room type and option selection
+- Date picker integration
+- Guest count management
+- Price calculation
+- Booking form with user details
+- Booking confirmation system
+
+Slide 5: Payment System
+Title: Payment Processing
+- Payment form integration
+- Card details management
+- Payment verification
+- Transaction processing
+- Booking confirmation
+- Payment history tracking
+- Refund processing
+
+Slide 6: Hotel Management
+Title: Hotel Administration
+- Hotel listing management
+- Room type configuration
+- Pricing management
+- Availability control
+- Booking management
+- User management
+- System settings
+
+Slide 7: Search & Discovery
+Title: Search Features
+- City-based search
+- Date-based filtering
+- Room type filtering
+- Price range filtering
+- Popular destinations
+- Search results display
+- Detailed hotel view
+
+Slide 8: User Interface
+Title: UI/UX Features
+- Responsive design
+- Modern styling
+- Intuitive navigation
+- Form validation
+- Error handling
+- Loading states
+- Mobile compatibility
+
+Slide 9: Additional Features
+Title: Extra Functionality
+- Travel guides
+- Popular cities section
+- Help center
+- About us section
+- Terms of service
+- Privacy policy
+- Contact information
+
+Slide 10: Technical Stack
+Title: Technology Overview
+- PHP backend
+- MySQL database
+- HTML/CSS frontend
+- JavaScript functionality
+- Session management
+- Security features
+- API integrations 
