@@ -1,0 +1,80 @@
+Ered Hotel vs Agoda: Unique Features Comparison
+
+1. Booking Management Features
+- Real-time booking status tracking with visual indicators
+- Detailed booking history with comprehensive information
+- Custom booking number generation system
+- Late checkout time selection during booking
+- Room service package selection during booking
+- Special requests handling (e.g., non-smoking preferences)
+- Booking countdown timer for pending reservations
+
+2. Hotel Management Features
+- Dedicated hotel manager dashboard
+- Real-time booking management interface
+- Customizable room amenities and features
+- Hotel-specific settings and profile management
+- Direct communication channel between hotel and guests
+- Hotel-specific deals and promotions management
+
+3. User Experience Features
+- Interactive booking process with real-time updates
+- Detailed room and hotel information display
+- Comprehensive booking details view
+- Customizable room preferences
+- Flexible checkout time options
+- Room service package selection
+- Special requests handling
+
+4. Payment and Pricing Features
+- Transparent pricing with detailed breakdown
+- Support for special deals and discounts
+- Late checkout fee calculation
+- Room service package pricing
+- Flexible payment options
+- Detailed receipt generation
+
+5. Security Features
+- CSRF token protection
+- Secure session management
+- User authentication and authorization
+- Secure payment processing
+- Booking verification system
+
+6. Administrative Features
+- Advanced booking filtering and search
+- Status-based booking management
+- Date-based filtering (today, tomorrow, this week, this month)
+- Comprehensive booking statistics
+- Hotel performance metrics
+- User management system
+
+7. Communication Features
+- Direct hotel-guest communication
+- Booking status notifications
+- Payment confirmation system
+- Special requests handling
+- Room service coordination
+
+8. Customization Features
+- Customizable room preferences
+- Flexible checkout times
+- Room service package selection
+- Special requests handling
+- Hotel-specific deals and promotions
+
+9. Reporting Features
+- Booking statistics
+- Revenue tracking
+- Occupancy rates
+- Guest preferences analysis
+- Performance metrics
+
+10. Integration Features
+- Seamless payment processing
+- Hotel management system integration
+- User authentication system
+- Booking management system
+- Room management system
+
+Note: This comparison focuses on features that are unique to Ered Hotel and may not be available in Agoda. The actual availability of features in Agoda may vary based on region and specific hotel partnerships. 
