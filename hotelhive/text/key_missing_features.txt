@@ -1,0 +1,49 @@
+Key Missing Features in Agoda
+
+1. Hotel Management
+- No dedicated hotel manager dashboard
+- No real-time booking management interface
+- No direct communication channel between hotel and guests
+- No hotel-specific deals and promotions management
+
+2. Booking Experience
+- No real-time booking status tracking
+- No custom booking number generation
+- No late checkout time selection
+- No room service package selection
+- No booking countdown timer
+
+3. User Customization
+- No customizable room preferences
+- No flexible checkout times
+- No special requests handling
+- No room service package selection
+
+4. Administrative Tools
+- No advanced booking filtering
+- No comprehensive booking statistics
+- No hotel performance metrics
+- No user management system
+
+5. Communication
+- No direct hotel-guest communication
+- No booking status notifications
+- No room service coordination
+
+6. Integration
+- No hotel management system integration
+- No booking management system
+- No room management system
+
+7. Security
+- No CSRF token protection
+- No secure session management
+- No booking verification system
+
+8. Reporting
+- No detailed booking statistics
+- No revenue tracking
+- No occupancy rate analysis
+- No guest preferences analysis
+
+Note: These features are currently unique to Ered Hotel and not available in Agoda. The actual availability of features in Agoda may vary based on region and specific hotel partnerships. 
